@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\7 Segment\7 Segment\obj\Debug\7 Segment.vbprojAssemblyReference.cache
+C:\Users\Asus\source\repos\7 Segment\7 Segment\obj\Debug\_7_Segment.Form1.resources
+C:\Users\Asus\source\repos\7 Segment\7 Segment\obj\Debug\_7_Segment.Resources.resources
+C:\Users\Asus\source\repos\7 Segment\7 Segment\obj\Debug\7 Segment.vbproj.GenerateResource.cache
+C:\Users\Asus\source\repos\7 Segment\7 Segment\bin\Debug\7 Segment.exe.config
+C:\Users\Asus\source\repos\7 Segment\7 Segment\bin\Debug\7 Segment.exe
+C:\Users\Asus\source\repos\7 Segment\7 Segment\bin\Debug\7 Segment.pdb
+C:\Users\Asus\source\repos\7 Segment\7 Segment\bin\Debug\7 Segment.xml
+C:\Users\Asus\source\repos\7 Segment\7 Segment\obj\Debug\7 Segment.exe
+C:\Users\Asus\source\repos\7 Segment\7 Segment\obj\Debug\7 Segment.xml
+C:\Users\Asus\source\repos\7 Segment\7 Segment\obj\Debug\7 Segment.pdb
